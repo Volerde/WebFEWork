@@ -4,7 +4,7 @@
       <el-col :span="4" :offset="2">
         <el-space>
           <el-image src="/favicon.ico" />
-          <p class="navbar-title">UNKONWN</p>
+          <p class="navbar-title">AZUMAUZUKI</p>
         </el-space>
       </el-col>
       <el-col :span="4" :offset="6">
@@ -23,7 +23,7 @@
             <el-icon size="20px">
               <Histogram />
             </el-icon>
-            <p class="navbar-web-map">服务案例</p>
+            <p class="navbar-web-map">合作伙伴</p>
           </el-space>
         </RouterLink>
       </el-col>
